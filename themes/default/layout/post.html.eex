@@ -1,0 +1,89 @@
+<header class="navbar navbar-expand flex-column flex-md-row ac-navbar ac-navbar-blog">
+  <a class="navbar-brand mr-0 mr-md-2" href="/" aria-label="Adam Conrad">
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 511.998 511.998" style="enable-background:new 0 0 511.998 511.998;height:16px" xml:space="preserve">
+      <g>
+        <rect x="177.05" y="32.711" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -3.98 213.7346)" width="157.921" height="157.921"></rect>
+      </g>
+      <g>
+        <rect x="321.37" y="177.048" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -63.7714 358.0599)" width="157.921" height="157.921"></rect>
+      </g>
+      <g>
+        <rect x="32.707" y="177.055" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -148.3235 153.9457)" width="157.921" height="157.921"></rect>
+      </g>
+      <g>
+        <rect x="177.046" y="321.366" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -208.091 298.2766)" width="157.921" height="157.921"></rect>
+      </g>
+    </svg>
+    AC
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 511.998 511.998" style="enable-background:new 0 0 511.998 511.998;height:16px" xml:space="preserve">
+      <g>
+        <rect x="177.05" y="32.711" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -3.98 213.7346)" width="157.921" height="157.921"></rect>
+      </g>
+      <g>
+        <rect x="321.37" y="177.048" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -63.7714 358.0599)" width="157.921" height="157.921"></rect>
+      </g>
+      <g>
+        <rect x="32.707" y="177.055" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -148.3235 153.9457)" width="157.921" height="157.921"></rect>
+      </g>
+      <g>
+        <rect x="177.046" y="321.366" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -208.091 298.2766)" width="157.921" height="157.921"></rect>
+      </g>
+    </svg>
+  </a>
+
+  <ul class="navbar-nav flex-row ml-md-auto d-none d-md-flex">
+    <li class="nav-item">
+      <a class="nav-link p-2" href="/#ac-projects" aria-label="Projects">
+        Projects
+      </a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link p-2" href="/blog" aria-label="Blog">
+        Blog
+      </a>
+    </li>
+  </ul>
+
+  <a class="btn btn-ac-red d-none d-lg-inline-block mb-3 mb-md-0 ml-md-3" href="/#ac-hire">Hire Me</a>
+</header>
+
+<article class="ac-blog">
+  <header class="ac-index-section ac-masthead ac-masthead-blog">
+    <div class="container">
+      <div class="row flex-column">
+        <h1><%= @frontmatter.title %></h1>
+        <p class="tagline"><%= @frontmatter.description %></p>
+        <p class="postscript">
+          Read more
+          <span class="down-caret">▼</span>
+        </p>
+      </div>
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="row justify-content-md-center">
+      <div class="col col-lg-2"></div>
+      <main class="col-md-8 ac-blog-content" role="main">
+        <%= @content %>
+
+        <footer>
+          Thanks for reading 🙏 Please share the ❤️
+          <a href="https://news.ycombinator.com/submitlink?u=https://adamconrad.me/<%= @filename %>&t=<%= @frontmatter.title %>"
+            aria-label="Share on HackerNews"
+            rel="noopener"
+            target="_blank">
+            Post to HN
+          </a> /
+          <a href='https://github.com/acconrad/blog/posts/<%= @filename |> String.replace(".html", ".markdown") %>'
+            aria-label="Comment via source"
+            rel="noopener"
+            target="_blank">
+            Comment (via source)
+          </a>
+        </footer>
+      </main>
+      <div class="col col-lg-2"></div>
+    </div>
+  </div>
+</article>

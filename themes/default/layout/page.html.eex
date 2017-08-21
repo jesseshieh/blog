@@ -1,0 +1,6 @@
+<h1>ONLY ON PAGE</h1>
+<header>
+  <%= @frontmatter.title %>
+</header>
+<hr />
+<%= @content %>

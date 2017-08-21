@@ -1,0 +1,139 @@
+<header class="navbar navbar-expand flex-column flex-md-row ac-navbar">
+  <a class="navbar-brand mr-0 mr-md-2" href="/" aria-label="Adam Conrad">
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 511.998 511.998" style="enable-background:new 0 0 511.998 511.998;height:16px" xml:space="preserve">
+      <g>
+        <rect x="177.05" y="32.711" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -3.98 213.7346)" width="157.921" height="157.921"></rect>
+      </g>
+      <g>
+        <rect x="321.37" y="177.048" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -63.7714 358.0599)" width="157.921" height="157.921"></rect>
+      </g>
+      <g>
+        <rect x="32.707" y="177.055" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -148.3235 153.9457)" width="157.921" height="157.921"></rect>
+      </g>
+      <g>
+        <rect x="177.046" y="321.366" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -208.091 298.2766)" width="157.921" height="157.921"></rect>
+      </g>
+    </svg>
+    AC
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 511.998 511.998" style="enable-background:new 0 0 511.998 511.998;height:16px" xml:space="preserve">
+      <g>
+        <rect x="177.05" y="32.711" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -3.98 213.7346)" width="157.921" height="157.921"></rect>
+      </g>
+      <g>
+        <rect x="321.37" y="177.048" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -63.7714 358.0599)" width="157.921" height="157.921"></rect>
+      </g>
+      <g>
+        <rect x="32.707" y="177.055" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -148.3235 153.9457)" width="157.921" height="157.921"></rect>
+      </g>
+      <g>
+        <rect x="177.046" y="321.366" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -208.091 298.2766)" width="157.921" height="157.921"></rect>
+      </g>
+    </svg>
+  </a>
+
+  <ul class="navbar-nav flex-row ml-md-auto d-none d-md-flex">
+    <li class="nav-item">
+      <a class="nav-link p-2" href="#ac-projects" aria-label="Projects">
+        Projects
+      </a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link p-2" href="/blog" target="_blank" rel="noopener" aria-label="Blog">
+        Blog
+      </a>
+    </li>
+  </ul>
+
+  <a class="btn btn-ac-white d-none d-lg-inline-block mb-3 mb-md-0 ml-md-3" href="#ac-hire">Hire Me</a>
+</header>
+
+<main class="ac-index-section ac-masthead">
+  <div class="container">
+    <div class="row flex-column">
+      <h1>Hello World</h1>
+      <p class="tagline">
+        I’m a software developer <span class="ampersand">&amp;</span> manager.
+        I <a href="/blog">write</a> about those things, too.
+        I do <a href="https://www.soundcloud.com/djacon">other things</a>, so you can check those out as well.
+      </p>
+      <p class="postscript">
+        Let’s see what kind of cool things I've been up to.
+        <span class="down-caret">▼</span>
+      </p>
+    </div>
+  </div>
+</main>
+
+<section class="ac-index-section ac-projects" id="ac-projects">
+  <div class="container">
+    <div class="row align-items-center">
+      <h2>Here are my latest projects</h2>
+
+      <ul class="list-unstyled projects">
+        <li class="project">
+          > <a href="https://peergym.herokuapp.com" target="_blank" rel="noopener" aria-label="PeerGym">PeerGym</a>
+          <blockquote>
+            PeerGym is a health and fitness club directory written in Elixir/Phoenix that provides equipment inventory and more in-depth information than you would find on a traditional review site like Google Reviews or Yelp.
+          </blockquote>
+        </li>
+        <li class="project">
+          > <a href="https://github.com/acconrad/mercury" target="_blank" rel="noopener" aria-label="Mercury">Mercury</a>
+          <blockquote>
+            Mercury is a finance API library written in Elixir. It currently supports an adapter for IEX.
+          </blockquote>
+        </li>
+        <li class="project">
+          > <a href="https://sharelatex.com" target="_blank" rel="noopener" aria-label="ShareLatex">ShareLatex</a>
+          <blockquote>
+            ShareLatex is an online LaTeX editor that I designed. I did the UX, design, and front-end development for their latest re-design, which was recently acquired by Overleaf.
+          </blockquote>
+        <li class="project">
+          > <a href="https://gocatalant.com" target="_blank" rel="noopener" aria-label="Catalant">Catalant</a>
+          <blockquote>
+            Catalant is a marketplace for business consultants. I’m a team lead for our core marketplace product and manage five direct reports.
+          </blockquote>
+        </li>
+        <li class="project">
+          > <a href="#ac-hire">??? YOUR PROJECT HERE ???</a>
+          <blockquote>
+            I love coding and designing great products, and fun fact, I’m available for consulting and freelance projcets. If you like what you see and you’d like to work with me, <a href="#ac-hire">send me an email</a> and let’s see if we can make something great together.
+          </blockquote>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="ac-index-section ac-blog">
+  <div class="container">
+    <div class="row align-items-center">
+      <h2>These are my latest blog posts</h2>
+
+      <ul class="list-unstyled blog">
+        <%= Enum.map @content, fn(post) ->
+          """
+          <li class="blog-post">
+            > <a href="#{ post.filename }">#{ post.frontmatter.title }</a>
+            <blockquote>
+              #{ post.frontmatter.description }
+            </blockquote>
+          </li>
+          """
+        end %>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="ac-index-section" id="ac-hire">
+  <div class="container">
+    <div class="row flex-column">
+      <h2>Let’s work together</h2>
+
+      <p class="tagline">
+        Here’s <a href="assets/img/resume.pdf">my résumé</a>, send me an email at <br>
+        <em>acconrad [at] protonmail [dot] com</em><br>
+        and let’s get to know each other.
+      </p>
+    </div>
+  </div>
+</section>

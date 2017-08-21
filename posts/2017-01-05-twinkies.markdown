@@ -1,0 +1,24 @@
+---
+title: Twinkies
+description: All about the sugary, no substance apps that dominate the app stores.
+created: 2017-01-05 01:27:28
+---
+
+All of this talk of a tech bubble has me on full tilt, ready to rant about how useless web development seems to have become. When I started making websites back when the internet came on a CD, repeating backgrounds were all the rage and you were a god if you could get JavaScript to work on your site. All of that hard work inspired you to create something meaningful with the limited resources you had. And it’s still true today: you don’t need HTML 5 Canvas or an elaborate concurrent chat server written in Erlang to make an impact (see Craigslist or Wikipedia for details). Yet in the same way that Myspace has given a soapbox to crappy musicians, so has the Lean Startup Movement and the incredibly low cost of development given anyone with a pulse a belief that they too can become the next Mark Zuckerburg. But hey, I guess that’s what happens when you make the web so accessible that anyone thinks he can do it, too. Hence, the birth of the “App”.
+
+## Where Did “The App” Come From?
+
+Pretty much when Apple decided that iPhone would be the Moses for developers. That single machine, and the mobile operating system movement, has turned development into a world of apps. Now don’t get me wrong – applications, as a concept, are a good thing; they are the food for us to consume on the plate that is the operating system. We’d be nothing without them. But last time I checked, companies started with one application, sold it, then made a few more. Now it seems like the company IS the app, and when they’re done making the app, they cash out equity and move on to the next app. And because of this trend, our “application food” has quickly devolved from meat and potatoes to candy corn and Twinkies…and I fucking hate candy corn.
+
+## The Twinkie App
+
+What do I mean by candy corn and Twinkies? I’m talking small, stupid applications that serve no purpose other than to take up space in some app store or some .com. Basically, anything TechCrunch is jerking off to at the moment, like any one of the thousands of Groupon clones or an app that got 10k signups based on hype alone. News flash: coupons are still boring and I don’t want to give out my email address to a service I don’t even know I’ll benefit from. So now we have an App Store that serves nothing but candy, and we all love candy don’t we? Candy is great when I’m on Christmas break, but not all day, every day. I don’t want my Android to get “app diabetes”. But that’s what everyone is making because it tastes great for a microsecond and then you realize it’s contributing zero to you brain and negatively to your gut. And the proverbial pun-intended cherry-on-top, Color, has truly been the glucose shot that is going to kill your iPhone in stage V, type II diabetes: yet another photo-sharing application. We’re officially addicted to app candy, and soon enough we will go cold turkey.
+
+## Lose $5M in 5 Days With The App Diet
+
+So this cluster fuck of apps has become so diluted in human value and so inflated in capital value that Ninja Warrior Agile ScrumMaster and Incompetent MBA Popped Collar actually have a decent chance of landing on the front page of TechCrunch with a title something to the effect of “Man Takes a Dump on an Android Phone: Sand Hill Road Calls First Dibs for $22M”. Eventually a prominent VC will wake up in a cold sweat and realize how totally fucked this is and become conservative on his investments. Others will follow. The bubble will burst. And then what? Then people will have to build something useful. I think I just heard someone say “Oh Shit.” Actually, I can tell who said it because my churn rate is climbing. Anyway, people will have to build something of real, thick value. Something that doesn’t require 3 years Objective-C, but 3 years of banging your head against the wall wondering how to solve this seemingly intractable problem. Something that pains your friends, and their friends, and their friends friends. Something that may, in fact, not be a problem in the social space. In fact, it might be quite personal and yet very curable. And it might be created by a company who intends to solve that problem, and then solve another. And another. And yet another still.
+
+*The truth is that you can start doing something meaningful today.*
+
+Be bold. Make something you and a billion people would want to use (and benefit from). You don’t need a bubble to realize that the world has very real problems to solve and that you can solve them if you would please put down the iPhone and use your brain that you were gifted with. Life is too short to be spent making Twinkies and candy corn. Help your fellow man, even if it’s not the hottest thing since the sliced-bread app.
+

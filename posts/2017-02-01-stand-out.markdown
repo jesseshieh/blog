@@ -1,0 +1,30 @@
+---
+title: Stand Out
+description: No one ever got anywhere special by blending in with the crowd.
+created: 2017-02-01 01:30:41
+---
+
+Last week I wanted “Application Diabetes” cured from our phones (apparently that pissed off quite a few people on Hacker News, but 45,000 views is pretty cool). This week I lost another nights sleep so I’m running on fumes again, so it’s time for another rant. Good news is this time I have some constructive advice (must be going from 3 to 4 hours in a night that does wonders for my productivity). This time it’s about how I never want to hear ninjas, pirates, rock stars, swashbucklers, candy tycoons, Big Bird…you name it, be associated with developers again. Except for Leviathan. Cause who wouldn’t want to be called a Leviathan programmer? In all seriousness, my message tonight is to be something that is actually at the root of all of these pseudonyms: a stand-out developer. I am not one yet, but here’s a very practical, systematized way that I plan to attack it, and how I think anyone else can in order to achieve Level V Leviathan status.
+
+## Procrastinate
+
+Wow dude, bad start. Don’t leave yet, I promise there’s a reason why you should procrastinate at work by doing things like reading Hacker News and Reddit. (NOTE: not a lot, don’t get yourself canned and then blame me) Eventually you will develop patterns for the types of articles you enjoy reading. Why is that important? Because those topics will be the seminal projects to start your stand-out career. They will also usually be problems that can be optimally solved in a certain subset of programming languages, which brings me to step 2…
+
+## Contribute to Open Source, Even If It’s Not Code
+
+First you have problems you want to solve. Now you’ve found a programming language that would be interesting to solve those problems in. Only problem is you have no idea what the hell a monad is or why currying reminds you of that delicious Indian restaurant down the street (fact: that is still true for me). Who cares if you don’t know the language, you just found an excuse to start learning it, which will accelerate your learning. Start grinding away at gaining competency with whatever language you are picking up, but again, notice the patterns of pain points you reach:
+
+* Are they fundamental issues with the language? 
+* Is the documentation poor?
+* Are the libraries for said language that do 95% of what you want it to do, but need a few more back rubs and gentle code massaging to achieve everything you’re looking for?
+
+If you haven’t figure it out by now, the idea is to answer these questions in the form of contributing to open source, even if you can’t code in the language that well. Think the definition of currying is confusing? Write a blog post explaining it in layman’s terms, and then formalize it into formal documentation that the (insert favorite functional programming language that uses currying here) team can use. As an example, I really like Thoughtbot’s Suspenders gem for Rails, but you couldn’t create a project with it and deploy to Heroku out of the box, so I integrated a Javascript compressor to push the necessary code into the correct directories and save others some ramp up time. Did I part the Dead Sea or beat Chuck Norris in a wrestling match? The answer is yes to both, but I did not do anything earth-shattering in terms of code contribution. And to be perfectly fair, it’s not integrated into the gem yet, but my Github activity is going up, and that’s what’s important. You just have to keep hammering away, which brings me to my final piece…
+
+## Gain Rep Like a Boss
+
+Once you’ve found a fun language to play around with and contribute to, you should start getting credit for it. Street cred will help you bitch slap lesser Leviathans that try to steal your thunder and hurt your game. Don’t let haters hate! Translation for you ninja rock stars out there: gain some reputation so your contributions stand out. How do you gain reputation? I mean, for the longest time I felt like a duck in Duck Hunt with 900 grey guns pointed at me simultaneously – show your face and you’re toast. How do you get past that and actually get your posts upvoted and get some coveted hardcore forking action? I could go on for a whole post on how to do this, but for now I would go with an old adage my mom once taught me:
+
+## How do you eat an elephant? One bite at a time.
+
+If you’ve got 10 minutes, you’ve got one answer to a StackOverflow question, one interesting article to submit to HackerNews and one GitHub pull request for a small code change in your favorite plugin. Imagine if you did that every weekday in a year? You’d have quite the following on all of those places, which as far as I’m concerned, represents the programming canon of the internet. Bump that up to an hour and you’ve got quite a bit more you can contribute. Maybe even sneak in a single round match over on TopCoder every once in a while on the weekends. If you devoted as little as five hours a week to continuously challenging yourself on TopCoder and increasing your contributions, in a year you could be a decently known, stand-out programmer without ever having written a blog post to assert your authority. Your work and your skill speak for themselves. Who wouldn’t want to someone like that? If you can take an hour a day to exercise, you can take an hour a day to flex your programming chops on something fun, and you will be a stand-out developer. Cause last time I checked, ninjas were clandestine assassins who used martial arts and rock stars played…oh, I dunno, rock music? And none of that sounds like software development.
+

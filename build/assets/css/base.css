@@ -1,0 +1,209 @@
+body {
+  font-family: 'Roboto Mono', monospace;
+  font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Rubik', sans-serif;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+article h1, article h2, article h3, article h4, article h5, article h6 {
+  margin: 56px 0 0 0;
+}
+
+article p {
+  --x-height-multiplier: 0.35;
+  --baseline-multiplier: 0.179;
+  letter-spacing: .01rem;
+  font-style: normal;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 1.58;
+  letter-spacing: -.003em;
+  margin: 29px 0 0 0;
+}
+
+article p:first-of-type {
+  margin: 0;
+}
+
+article ul, article ol, article footer {
+  margin-top: 29px;
+}
+
+article img {
+  max-width: 100%;
+}
+
+.ac-navbar,
+.ac-navbar a,
+.ac-navbar rect,
+.ac-masthead {
+  background-color: #FF431D;
+  color: #000;
+  fill: #000;
+}
+
+.ac-navbar-blog,
+.ac-navbar-blog a,
+.ac-navbar-blog rect,
+.ac-masthead-blog,
+.ac-index-section.ac-blog {
+  background-color: #D4D4D4;
+  color: #2637DD;
+  fill: #2637DD;
+}
+.ac-masthead-blog a,
+.ac-index-section.ac-blog a {
+  border-bottom: 2px dashed #2637DD;
+  color: #2637DD;
+  padding: 3px;
+  text-decoration: none;
+}
+
+.ac-navbar-projects,
+.ac-navbar-projects a,
+.ac-navbar-projects rect,
+.ac-masthead-projects,
+.ac-index-section.ac-projects {
+  background-color: #2637DD;
+  color: #D4D4D4;
+  fill: #D4D4D4;
+}
+.ac-masthead-projects a,
+.ac-index-section.ac-projects a {
+  background-color: #D4D4D4;
+  color: #2637DD;
+  padding: 3px;
+}
+
+.ac-navbar {
+  min-height: 4rem;
+  top: 0;
+  z-index: 1071;
+}
+
+.ac-navbar .btn-ac-red,
+.ac-navbar .btn-ac-white {
+  font-weight: 500;
+}
+
+.ac-navbar .btn-ac-white {
+  border-color: #fff;
+  color: #fff;
+}
+
+.ac-navbar .btn-ac-red {
+  background-color: #FF431D;
+  color: #fff;
+}
+
+.ac-content {
+  -ms-flex-order: 1;
+  order: 1;
+}
+
+.ac-index-section,
+.ac-blog-content {
+  padding: 3rem 0;
+  position: relative;
+}
+
+.ac-index-section h2 {
+  font-size: 48px;
+  line-height: 1.2;
+}
+
+.ac-index-section .tagline,
+.ac-index-section .project,
+.ac-index-section .blog-post {
+  font-size: 24px;
+  line-height: 1.5;
+}
+
+.ac-index-section .tagline {
+  display: block;
+  padding-top: 2rem;
+}
+
+.ac-index-section.ac-projects .projects,
+.ac-index-section.ac-blog .blog {
+  padding-top: 3rem;
+}
+
+.project blockquote,
+.blog-post blockquote {
+  margin-left: 1.5rem;
+  margin-top: .5rem;
+  padding-left: .75rem;
+}
+
+.project blockquote {
+  border-left: 2px solid #D4D4D4;
+}
+
+.blog-post blockquote {
+  border-left: 2px solid #2637DD;
+}
+
+.blog-post a {
+  cursor: pointer;
+}
+
+.ac-masthead {
+  height: 80vh;
+  text-align: center;
+}
+
+.ac-masthead h1 {
+  font-size: 60px;
+  margin: 0 auto;
+}
+
+.ac-masthead a {
+  border-bottom: 2px solid #fff;
+  color: #000;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.ac-masthead a:hover {
+  color: #fff;
+}
+
+.ampersand {
+  font-weight: 300;
+  font-style: italic;
+}
+
+.ac-masthead .postscript {
+  bottom: 40px;
+  left: 0;
+  position: absolute;
+  right: 0;
+}
+
+.ac-masthead .postscript .down-caret {
+  display: block;
+  padding-top: 10px;
+}
+
+@media (min-width: 576px) {
+  .ac-index-section,
+  .ac-blog-content {
+    padding-bottom: 5rem;
+    padding-top: 5rem;
+  }
+
+  .ac-masthead {
+    padding-top: 10rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .navbar-brand {
+    margin-left: calc(50% - 40px);
+  }
+}

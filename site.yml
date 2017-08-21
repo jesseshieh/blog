@@ -1,0 +1,8 @@
+---
+name: Adam Conrad
+url: http://www.adamconrad.me
+description: This is my blog about things
+language: en-us
+posts_per_page: 5
+sort_posts: descending
+theme: default

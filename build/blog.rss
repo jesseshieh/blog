@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+  <title>Adam Conrad</title>
+  <link>http://www.adamconrad.me</link>
+  <description>This is my blog about things</description>
+  <lastBuildDate>2017-08-21 02:26:17</lastBuildDate>
+  <language>en-us</language>
+<item>
+  <title>So you've been promoted to manager. Now what?</title>
+  <description>[CDATA[ Let's explore the steps you should take to transition from individual contributor to management. ]]</description>
+  <pubDate>2017-07-01</pubDate>
+  <link>http://www.adamconrad.me/2017-07-01-so-youve-been-promoted-to-manager-now-what.html</link>
+  <guid>http://www.adamconrad.me/2017-07-01-so-youve-been-promoted-to-manager-now-what.html</guid>
+</item>
+<item>
+  <title>Firefox Developer Edition First Impressions</title>
+  <description>[CDATA[ An in-depth breakdown of my first impressions with the new Firefox Developer Edition browser. ]]</description>
+  <pubDate>2017-06-10</pubDate>
+  <link>http://www.adamconrad.me/2017-06-10-firefox-developer-edition-first-impressions.html</link>
+  <guid>http://www.adamconrad.me/2017-06-10-firefox-developer-edition-first-impressions.html</guid>
+</item>
+<item>
+  <title>Startup vs Startup</title>
+  <description>[CDATA[ Some people think they've got a real business. Others just want to play founder on TV. ]]</description>
+  <pubDate>2017-05-03</pubDate>
+  <link>http://www.adamconrad.me/2017-05-03-startup-vs-startup.html</link>
+  <guid>http://www.adamconrad.me/2017-05-03-startup-vs-startup.html</guid>
+</item>
+<item>
+  <title>Responsive Design</title>
+  <description>[CDATA[ It's still worth it, but somehow everyone hasn't done it yet. ]]</description>
+  <pubDate>2017-04-06</pubDate>
+  <link>http://www.adamconrad.me/2017-04-06-responsive-design.html</link>
+  <guid>http://www.adamconrad.me/2017-04-06-responsive-design.html</guid>
+</item>
+<item>
+  <title>Do What You Love</title>
+  <description>[CDATA[ It's probably the most trite thing you could tell anyone. That doesn't make it any less of a true statement. ]]</description>
+  <pubDate>2017-03-03</pubDate>
+  <link>http://www.adamconrad.me/2017-03-03-do-what-you-love.html</link>
+  <guid>http://www.adamconrad.me/2017-03-03-do-what-you-love.html</guid>
+</item>
+<item>
+  <title>Stand Out</title>
+  <description>[CDATA[ No one ever got anywhere special by blending in with the crowd. ]]</description>
+  <pubDate>2017-02-01</pubDate>
+  <link>http://www.adamconrad.me/2017-02-01-stand-out.html</link>
+  <guid>http://www.adamconrad.me/2017-02-01-stand-out.html</guid>
+</item>
+<item>
+  <title>Twinkies</title>
+  <description>[CDATA[ All about the sugary, no substance apps that dominate the app stores. ]]</description>
+  <pubDate>2017-01-05</pubDate>
+  <link>http://www.adamconrad.me/2017-01-05-twinkies.html</link>
+  <guid>http://www.adamconrad.me/2017-01-05-twinkies.html</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,23 @@
+<!-- <3 NOT GONNA LIE IF YOU FOUND THIS COMMENT THEN WE WILL PROBABLY BE FRIENDS <3 -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Adam Conrad - I write about technical management and software.">
+
+    <title>Adam Conrad</title>
+
+    <link rel="icon" href="/favicon.ico">
+
+    <link href="//fonts.googleapis.com/css?family=Roboto+Mono:300,400|Rubik:300,400,900" rel="stylesheet">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css">
+    <%= @css %>
+  </head>
+
+  <body>
+    <%= @content %>
+    <%= @js %>
+  </body>
+</html>
