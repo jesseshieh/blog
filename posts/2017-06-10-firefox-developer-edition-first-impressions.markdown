@@ -1,10 +1,10 @@
 ---
 title: Firefox Developer Edition First Impressions
-description: An in-depth breakdown of my first impressions with the new Firefox Developer Edition browser.
+description: An in-depth breakdown of my first impressions with the Firefox Developer Edition browser.
 created: 2017-06-10 01:31:38
 ---
 
-Mozilla just released their [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) browser made specifically for web developers. As both an exercise in my work as a UX developer as well as a chance to blog about something, I thought I'd take the new browser for a spin, with a step-by-step thought process on my initial impressions with this new browser aimed specifically at professionals like me. **This is raw and unedited**: I think there is something to be gained from getting raw feedback of one's thoughts and opinions as they appear from the stream of consciousness, so I chose to edit this only with pictures in between to showcase what I was looking at while journaling my thoughts.
+Did you know Mozilla has a [Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) of Firefox made specifically for web developers. As both an exercise in my work as a UX developer as well as a chance to blog about something, I thought I'd take the new browser for a spin, with a step-by-step thought process on my initial impressions with this new browser aimed specifically at professionals like me. **This is raw and unedited**: I think there is something to be gained from getting raw feedback of one's thoughts and opinions as they appear from the stream of consciousness, so I chose to edit this only with pictures in between to showcase what I was looking at while journaling my thoughts.
 
 ## Onboarding
 

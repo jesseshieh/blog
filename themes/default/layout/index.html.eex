@@ -71,7 +71,7 @@
 
       <ul class="list-unstyled projects">
         <li class="project">
-          > <a href="https://peergym.herokuapp.com" target="_blank" rel="noopener" aria-label="PeerGym">PeerGym</a>
+          > <a href="https://peergym.herokuapp.com" target="_blank" rel="noopener" aria-label="PeerGym">PeerGym</a> / <a href="https://github.com/acconrad/peergym">View source</a>
           <blockquote>
             PeerGym is a health and fitness club directory written in Elixir/Phoenix that provides equipment inventory and more in-depth information than you would find on a traditional review site like Google Reviews or Yelp.
           </blockquote>
