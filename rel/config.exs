@@ -32,5 +32,8 @@ end
 
 release :blog do
   set version: current_version(:blog)
+  set overlays: [
+    {:copy, "build", "build"}
+  ]
 end
 
