@@ -29,6 +29,7 @@ defmodule Blog.Mixfile do
   # Type "mix help deps" for more examples and options
   defp deps do
     [{ :obelisk, "~> 0.10.0", github: "BennyHallett/obelisk" },
-     { :yamerl, github: "yakaz/yamerl"}]
+     { :yamerl, github: "yakaz/yamerl"},
+     { :distillery, "~> 1.0.0" }]
   end
 end
