@@ -28,8 +28,13 @@ defmodule Blog.Mixfile do
   #
   # Type "mix help deps" for more examples and options
   defp deps do
-    [{ :obelisk, "~> 0.10.0", github: "BennyHallett/obelisk" },
-     { :yamerl, github: "yakaz/yamerl"},
-     { :distillery, "~> 1.0.0", runtime: false }]
+    [{:obelisk, "~> 0.10.0", github: "BennyHallett/obelisk"},
+     {:yamerl, github: "yakaz/yamerl"},
+     {:distillery, "~> 1.0.0", runtime: false},
+     {:earmark, "~> 0.1.15"},
+     {:rss, "~> 0.2.1"},
+     {:anubis, "~> 0.1.0"},
+     {:mock, "~> 0.1.0"},
+     {:calliope, "~> 0.3.0"}]
   end
 end
