@@ -38,7 +38,7 @@
       </a>
     </li>
     <li class="nav-item">
-      <a class="nav-link p-2" href="/blog" target="_blank" rel="noopener" aria-label="Blog">
+      <a class="nav-link p-2" href="/blog.html" target="_blank" rel="noopener" aria-label="Blog">
         Blog
       </a>
     </li>
@@ -53,7 +53,7 @@
       <h1>Hello World</h1>
       <p class="tagline">
         I’m a software developer <span class="ampersand">&amp;</span> manager.
-        I <a href="/blog">write</a> about those things, too.
+        I <a href="/blog.html">write</a> about those things, too.
         I do <a href="https://www.soundcloud.com/djacon">other things</a>, so you can check those out as well.
       </p>
       <p class="postscript">
@@ -83,7 +83,7 @@
           </blockquote>
         </li>
         <li class="project">
-          > <a href="https://sharelatex.com" target="_blank" rel="noopener" aria-label="ShareLatex">ShareLatex</a>
+          > <a href="https://www.sharelatex.com" target="_blank" rel="noopener" aria-label="ShareLatex">ShareLatex</a>
           <blockquote>
             ShareLatex is an online LaTeX editor that I designed. I did the UX, design, and front-end development for their latest re-design, which was recently acquired by Overleaf.
           </blockquote>
@@ -120,6 +120,8 @@
           """
         end %>
       </ul>
+
+      <p class="tagline"><a href="/blog.html">All posts</a></p>
     </div>
   </div>
 </section>

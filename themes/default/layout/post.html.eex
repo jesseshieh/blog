@@ -38,7 +38,7 @@
       </a>
     </li>
     <li class="nav-item">
-      <a class="nav-link p-2" href="/blog" aria-label="Blog">
+      <a class="nav-link p-2" href="/blog.html" aria-label="Blog">
         Blog
       </a>
     </li>

@@ -1,8 +1,8 @@
 ---
 name: Adam Conrad
 url: http://www.adamconrad.me
-description: This is my blog about things
+description: This is my blog and portfolio. Thanks for coming, and have a nice life.
 language: en-us
-posts_per_page: 5
+posts_per_page: 3
 sort_posts: descending
 theme: default
